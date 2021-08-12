@@ -1,0 +1,11 @@
+.verify-page {
+    margin-top: 50px;
+    min-height: 785px;
+}
+
+.ant-form {
+    margin-top: 25px;
+    border: 1px solid rgb(158, 197, 248);
+    border-radius: 5px;
+    padding: 25px;
+}
