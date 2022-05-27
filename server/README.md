@@ -1,4 +1,12 @@
-# project-final-intern-nodejs-2021
+# NodeJS + Restful API
 
-#create database
-npx sequelize-cli db:migrate
+## Database
+* MySQL
+* Sequelize ORM
+
+## Socket.io
+* Real-time function
+
+## How to run
+* npm install | yarn
+* npm start (server will run on port 3001)
